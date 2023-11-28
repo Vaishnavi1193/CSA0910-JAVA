@@ -32,4 +32,9 @@ public class VoteEligibility {
         return 18 - age;
     }
 }
+OUTOUT:
+C:\Users\VAISHNAVI\Desktop>javac VoteEligibility.java
 
+C:\Users\VAISHNAVI\Desktop>java VoteEligibility
+Enter your age: 18
+You are eligible to vote!
