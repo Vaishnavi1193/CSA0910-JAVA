@@ -48,3 +48,10 @@ public class NumberCount {
         scanner.close();
     }
 }
+OUTPUT:
+Enter a list of numbers separated by spaces: 2 5 4 7 6 8 0 9 1
+Odd numbers count: 4
+Even numbers count: 5
+Positive numbers count: 8
+Negative numbers count: 0
+
