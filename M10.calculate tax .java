@@ -31,3 +31,13 @@ public class IncomeTaxCalculator {
         }
     }
 }
+OUTPUT:
+C:\Users\VAISHNAVI.R\OneDrive\Desktop>javac IncomeTaxCalculator.java
+
+C:\Users\VAISHNAVI.R\OneDrive\Desktop>java IncomeTaxCalculator
+Enter the income: 400700
+Tax to be paid: 35140.0
+
+C:\Users\VAISHNAVI.R\OneDrive\Desktop>java IncomeTaxCalculator
+Enter the income: 150000
+No tax.
