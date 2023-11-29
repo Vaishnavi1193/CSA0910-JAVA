@@ -21,9 +21,9 @@ public class NumberPattern2 {
 }
 
 OUTPUT:
-C:\Users\BHAVATHARANI\Documents>javac NumberPattern2.java
+C:\Users\VAISHNAVI\Documents>javac NumberPattern2.java
 
-C:\Users\BHAVATHARANI\Documents>java NumberPattern2
+C:\Users\VAISHNAVI\Documents>java NumberPattern2
 1
 2 2
 3 3 3
