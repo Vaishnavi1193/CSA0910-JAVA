@@ -38,3 +38,22 @@ public class NumberAndSquareArray {
         return resultArray;
     }
 }
+OUTPUT:
+C:\Users\VAISHNAVI.R\OneDrive\Documents>javac NumberAndSquareArray.java
+
+C:\Users\VAISHNAVI.R\OneDrive\Documents>java NumberAndSquareArray
+Enter the size of the array: 6
+Enter the elements of the array:
+123
+140
+170
+230
+260
+310
+Result Array (Number, Square):
+[123, 15129]
+[140, 19600]
+[170, 28900]
+[230, 52900]
+[260, 67600]
+[310, 96100]
