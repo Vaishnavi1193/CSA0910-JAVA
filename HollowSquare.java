@@ -33,3 +33,14 @@ public class HollowSquarePattern {
         }
     }
 }
+OUTPUT:
+C:\Users\VAISHNAVI.R\OneDrive\Documents>javac HollowSquarePattern.java
+
+C:\Users\VAISHNAVI.R\OneDrive\Documents>java HollowSquarePattern
+Enter the symbol for the pattern: $
+Enter the size of the square: 5
+$ $ $ $ $
+$       $
+$       $
+$       $
+$ $ $ $ $
